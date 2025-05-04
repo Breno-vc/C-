@@ -1,0 +1,14 @@
+/home/breno-carv/Documentos/csharp-studies/bin/Debug/net8.0/csharp-studies
+/home/breno-carv/Documentos/csharp-studies/bin/Debug/net8.0/csharp-studies.deps.json
+/home/breno-carv/Documentos/csharp-studies/bin/Debug/net8.0/csharp-studies.runtimeconfig.json
+/home/breno-carv/Documentos/csharp-studies/bin/Debug/net8.0/csharp-studies.dll
+/home/breno-carv/Documentos/csharp-studies/bin/Debug/net8.0/csharp-studies.pdb
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/csharp-studies.GeneratedMSBuildEditorConfig.editorconfig
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/csharp-studies.AssemblyInfoInputs.cache
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/csharp-studies.AssemblyInfo.cs
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/csharp-studies.csproj.CoreCompileInputs.cache
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/csharp-studies.dll
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/refint/csharp-studies.dll
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/csharp-studies.pdb
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/csharp-studies.genruntimeconfig.cache
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/ref/csharp-studies.dll

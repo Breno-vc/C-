@@ -1,0 +1,14 @@
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/CursoCSharp.AssemblyInfoInputs.cache
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/CursoCSharp.AssemblyInfo.cs
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/CursoCSharp.csproj.CoreCompileInputs.cache
+/home/breno-carv/Documentos/csharp-studies/bin/Debug/net8.0/CursoCSharp
+/home/breno-carv/Documentos/csharp-studies/bin/Debug/net8.0/CursoCSharp.deps.json
+/home/breno-carv/Documentos/csharp-studies/bin/Debug/net8.0/CursoCSharp.runtimeconfig.json
+/home/breno-carv/Documentos/csharp-studies/bin/Debug/net8.0/CursoCSharp.dll
+/home/breno-carv/Documentos/csharp-studies/bin/Debug/net8.0/CursoCSharp.pdb
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/CursoCSharp.dll
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/refint/CursoCSharp.dll
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/CursoCSharp.pdb
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/CursoCSharp.genruntimeconfig.cache
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/ref/CursoCSharp.dll
