@@ -12,3 +12,4 @@
 /home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/CursoCSharp.pdb
 /home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/CursoCSharp.genruntimeconfig.cache
 /home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/ref/CursoCSharp.dll
+/home/breno-carv/Documentos/csharp-studies/obj/Debug/net8.0/CursoCSharp.sourcelink.json
